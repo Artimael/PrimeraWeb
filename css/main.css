@@ -1,0 +1,49 @@
+body
+{
+    font-family: 'Lato', sans-serif;
+}
+
+img
+{
+    max-width:100%;
+}
+.quitar-float
+{
+    float:none;
+    margin-top: 100px;
+}
+
+#principal
+{
+    width: 40%;
+    float:none;
+    margin:0 auto;
+    margin-top: 50px;
+    text-align: center;
+    
+}
+
+.pacifico
+{
+    font-family: 'Pacifico', cursive;
+}
+
+.grande
+{
+ font-size: 3em;   
+}
+
+.verde
+{
+    color: #00887c;
+}
+.espacio-derecha
+{
+    margin-right: 1em;
+}
+
+a
+{
+    color:#009fff;
+}
+
