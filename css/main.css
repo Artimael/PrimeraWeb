@@ -18,7 +18,6 @@ img
     width: 40%;
     float:none;
     margin:0 auto;
-    margin-top: 50px;
     text-align: center;
     
 }
@@ -47,3 +46,30 @@ a
     color:#009fff;
 }
 
+.no-lista
+{
+    margin: 0px;
+    padding: 0px;
+}
+
+.no-lista li
+{
+   list-style-type: none;
+}
+
+.se-gris
+{
+    background-color:gray;
+}
+
+.padding-largo
+{
+    padding: :5px 10px;
+}
+
+inline-block
+{
+    float:none;
+    display: inline-block;
+    margin-right: -4px;
+}
